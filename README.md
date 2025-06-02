@@ -241,6 +241,4 @@ make upload
 
 ## 🆘 支持
 
-- 📖 [完整文档](https://bikeread.github.io/MechDrawKit/)
 - 🐛 [问题反馈](https://github.com/MechDrawKit/mechdrawkit/issues)
-- 💬 [讨论区](https://github.com/MechDrawKit/mechdrawkit/discussions)
